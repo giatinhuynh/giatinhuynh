@@ -18,7 +18,7 @@ When I’m not coding, you’ll often find me:
 ## 🎓 Education  
 
 - **Bachelor of Information Technology**  
-  - _RMIT University Vietnam_  
+  - _RMIT University_  
   - _Minor: Artificial Intelligence and Machine Learning_  
   - _Expected Graduation: 2025_  
 
