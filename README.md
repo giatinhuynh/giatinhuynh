@@ -2,12 +2,13 @@
 
 ## About Me ℹ️  
 
-Hi there! I’m Gia Tín Huỳnh Đức (he/him), a passionate **Full-Stack Developer**, **Cloud Computing Enthusiast**, and aspiring **AI Engineer**, **Project Manager**. I specialize in building innovative, scalable solutions that blend creativity, collaboration, and cutting-edge technology. Driven by a desire to solve real-world problems, I thrive in fast-paced environments that push boundaries and foster growth.  
+Hi there! I’m Gia Tín Huỳnh Đức (he/him), a passionate **Full-Stack Developer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and dedicated **Project Manager**. I specialize in building innovative, scalable solutions that blend creativity, collaboration, and cutting-edge technology. Driven by a desire to solve real-world problems, I thrive in fast-paced environments that push boundaries and foster growth.  
 
 **Fun Fact:** I’ve got an **offline survival manual** on my phone—just in case! 🧭  
 
 When I’m not coding, you’ll often find me:  
-- **Watching and discussing** popular media like anime, manga, and cartoons, and writing reviews to share my thoughts. My top 3: Cowboy Bebop, Steins; Gate, and Vagabond
+- **Watching and discussing** popular media like anime, manga, and cartoons, and writing reviews to share my thoughts.  
+  _Top 3: Cowboy Bebop, Steins;Gate, and Vagabond_  
 - **Listening to music** (and sometimes creating my own tunes!).  
 - **Dancing** my heart out.  
 - Enjoying **video games**—both competitive and story-driven!  
@@ -27,8 +28,9 @@ When I’m not coding, you’ll often find me:
 
 ### Full-Stack Applications  
 
-#### **RMatch**  
-📍 **[CSIT x SWITCH Hackathon – 2nd Place Winner 🏆]**  
+#### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
+📍 _Sep 2024 – Nov 2024_  
+🏆 **CSIT x SWITCH Hackathon – 2nd Place Winner**  
 - **Description:** A web app connecting RMIT students with teammates, friends, and study partners via a Tinder-style matching system.  
 - **Role:** Project Manager & Lead Developer  
 - **Technologies Used:**  
@@ -40,8 +42,9 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-#### **Medea**  
-📍 **[Swin Hackathon 2024 – Top 28 Finalist 🏆]**  
+#### [**Medea**](https://github.com/giatinhuynh/Medea)  
+📍 _Aug 2024 – Nov 2024_  
+🏆 **Swin Hackathon 2024 – Top 28 Finalist**  
 - **Description:** An all-in-one AI-powered media production platform designed to streamline workflows for creative professionals.  
 - **Role:** Full-Stack Developer & UI/UX Designer  
 - **Technologies Used:**  
@@ -55,8 +58,8 @@ When I’m not coding, you’ll often find me:
 
 ### Java Applications  
 
-#### **Port Management System**  
-📍 **[COSC2081] Programming 1**  
+#### [**Port Management System**](https://github.com/giatinhuynh/COSC2081_team_2)  
+📍 _Aug 2023 – Oct 2023_  
 - **Description:** A Java-based platform to track port resources, vehicle logs, and fuel consumption with CRUD functionality.  
 - **Role:** Team Leader  
 - **Technologies Used:**  
@@ -68,8 +71,8 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-#### **The Reading Room**  
-📍 **[COSC2391] Further Programming**  
+#### [**The Reading Room**](https://github.com/giatinhuynh/thereadingroom)  
+📍 _Aug 2024 – Nov 2024_  
 - **Description:** A bookstore management system enabling seamless book inventory, order tracking, and user management.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -83,8 +86,8 @@ When I’m not coding, you’ll often find me:
 
 ### IoT Innovations  
 
-#### **Sky Garden**  
-📍 **[COSC2500] Introduction to Computer Systems**  
+#### [**Sky Garden**](https://github.com/giatinhuynh/COSC2500-Sky-GardenIoT-A4-11)  
+📍 _Sep 2023 – Oct 2023_  
 - **Description:** Advanced automated greenhouse system using IoT to improve sustainable farming practices.  
 - **Role:** IoT Developer & Team Leader  
 - **Technologies Used:**  
@@ -96,8 +99,8 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-#### **Automated Greenhouse System**  
-📍 **[COSC2500] Introduction to Computer Systems**  
+#### [**Automated Greenhouse System**](https://github.com/giatinhuynh/green-house-system)  
+📍 _Jul 2023 – Aug 2023_  
 - **Description:** A smart system combining adaptive watering, climate control, and real-time monitoring for efficient plant care.  
 - **Role:** IoT Developer & Team Leader  
 - **Technologies Used:**  
@@ -111,8 +114,8 @@ When I’m not coding, you’ll often find me:
 
 ### General Software Projects  
 
-#### **Otaku Universe**  
-📍 **[COSC2430] Web Programming Course**  
+#### [**Otaku Universe**](https://github.com/giatinhuynh/Otaku-Universe)  
+📍 _Jul 2023 – Aug 2023_  
 - **Description:** Online bookstore and community hub for fans of manga and light novels worldwide.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -124,8 +127,8 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-#### **Cookery**  
-📍 **[COSC2652] User-Centered Design Course**  
+#### [**Cookery**](https://github.com/giatinhuynh/Cookerynoserver)  
+📍 _Mar 2023 – May 2023_  
 - **Description:** AI-powered chatbot providing personalized recipe recommendations and culinary tips.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -137,8 +140,8 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-#### **Kookasap**  
-📍 **[COSC2083] Essentials of IT**  
+#### [**Kookasap**](https://github.com/giatinhuynh/Kookasap)  
+📍 _Oct 2022 – Dec 2022_  
 - **Description:** A recipe recommendation platform using responsive design principles.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -160,11 +163,11 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-## 📫 Connect with Me  
+## 🤝 Connect and Collaborate  
+
+I firmly believe in fostering **growth**, maintaining **clear communication**, and cultivating **teamwork** to achieve outstanding results. Let’s connect and collaborate to build innovative solutions, share knowledge, and grow together!  
 
 - **LinkedIn:** [Gia Tín Huỳnh Đức](https://linkedin.com/in/huynhducgiatin)  
 - **Email:** [giatinhuynh2612@gmail.com](mailto:giatinhuynh2612@gmail.com)  
-
----
 
 💡 **"Innovating at the crossroads of technology, creativity, and problem-solving."**  
