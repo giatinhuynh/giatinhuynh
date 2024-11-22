@@ -56,6 +56,24 @@ When I’m not coding, you’ll often find me:
 
 ---
 
+#### [**Student Check-In Web App**](https://github.com/RMIT-FinTech-Club/Check-in-System)  
+📍 _Mar 2024 – Jun 2024_  
+- **Description:** A web app automating event check-in processes by streamlining data entry with advanced backend automation.  
+- **Role:** Backend Developer  
+- **Key Contributions:**  
+  - Built data manipulation workflows using **Python** and **Selenium** for automated processing.  
+  - Integrated **OpenCV** for enhanced data accuracy and validation.  
+  - Tested in real-time during school events, successfully processing over **200+ entries** with minimal errors.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,python,flask,tailwindcss" />
+    </a>
+  </p>  
+
+---
+
+
 ### Java Applications  
 
 #### [**Port Management System**](https://github.com/giatinhuynh/COSC2081_team_2)  
