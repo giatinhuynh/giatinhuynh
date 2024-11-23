@@ -132,6 +132,26 @@ When I’m not coding, you’ll often find me:
 
 ### General Software Projects  
 
+---
+
+#### [**Electoral Database Management System**](https://github.com/giatinhuynh/victoriavotingsystem)  
+📍 _Aug 2024 – Oct 2024_  
+- **Description:** A comprehensive database solution designed to manage and optimize federal electoral processes, including voter registration, ballot issuance, and result aggregation.  
+- **Role:** Database Developer  
+- **Key Contributions:**  
+  - Designed and implemented a scalable database schema using **ER modeling** and **SQL Server**.  
+  - Optimized complex queries for reporting and analysis, including identifying non-voters and generating randomized candidate lists.  
+  - Developed stored procedures to automate tasks such as vote counting and preference redistribution.  
+  - Enhanced database scalability by applying **table partitioning** and **indexing techniques** for efficient data handling.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqlserver,azure" />
+    </a>
+  </p>  
+
+---
+
 #### [**Otaku Universe**](https://github.com/giatinhuynh/Otaku-Universe)  
 📍 _Jul 2023 – Aug 2023_  
 - **Description:** Online bookstore and community hub for fans of manga and light novels worldwide.  
