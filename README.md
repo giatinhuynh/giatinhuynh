@@ -30,7 +30,7 @@ When I’m not coding, you’ll often find me:
 
 #### [**GreenBook**](https://green-book-sigma.vercel.app/)  
 📍 _Nov 2024 – Present_  
-💼 **A Project at Project Pluto
+💼 **A Project at Project Pluto**
 - **Description:** A platform designed to transform traditional marketing materials into dynamic digital experiences, emphasizing sustainability and innovation. It supports both programmatic and visual development workflows, streamlining the creation, deployment, and management of digital marketing assets.
 - **Role:** Lead Full-Stack Software Engineer
 - **Technologies Used:**  
