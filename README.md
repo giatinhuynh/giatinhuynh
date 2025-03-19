@@ -36,7 +36,7 @@ When I’m not coding, you’ll often find me:
 - **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,supabase, prisma" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,supabase,postgresql,prisma" />
     </a>
   </p>  
 
