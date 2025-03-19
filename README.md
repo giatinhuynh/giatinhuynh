@@ -20,13 +20,27 @@ When I’m not coding, you’ll often find me:
 - **Bachelor of Information Technology**  
   - _RMIT University_  
   - _Minor: Artificial Intelligence and Machine Learning_  
-  - _Expected Graduation: 2025_  
+  - _Expected Graduation: 2026_  
 
 ---
 
 ## 💻 Projects  
 
 ### Full-Stack Applications  
+
+#### [**GreenBook**](https://green-book-sigma.vercel.app/)  
+📍 _Nov 2024 – Present_  
+💼 **A Project at Project Pluto
+- **Description:** A platform designed to transform traditional marketing materials into dynamic digital experiences, emphasizing sustainability and innovation. It supports both programmatic and visual development workflows, streamlining the creation, deployment, and management of digital marketing assets.
+- **Role:** Lead Full-Stack Software Engineer
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,supabase, prisma" />
+    </a>
+  </p>  
+
+---
 
 #### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
 📍 _Sep 2024 – Nov 2024_  
