@@ -103,6 +103,39 @@ When I’m not coding, you’ll often find me:
 
 ### Full-Stack Applications  
 
+#### [**TeachTeam – Tutor Application System**](https://github.com/giatinhuynh/s3954173-s3962053-a2)  
+📍 _Apr 2025 – Jun 2025_  
+💼 **Full-Stack Application for RMIT’s Web Systems & Technologies Course**
+
+- **Description:** A robust and production-grade tutor application system built with a scalable full-stack architecture. The platform includes a public-facing portal, a role-based dashboard for tutors and lecturers, and a separate admin dashboard with GraphQL support for administrative functions.  
+- **Role:** Full-Stack Developer & Testing Lead  
+- **Impact:** Implemented end-to-end authentication, role-based dashboards, GraphQL real-time notifications, and 46 comprehensive test cases across key features and flows.
+
+#### 🔧 System Architecture
+- **Frontend:** React, TypeScript, Next.js  
+- **Backend API:** Node.js, Express, TypeORM, MySQL  
+- **Admin Dashboard:** React with Apollo GraphQL & Subscriptions  
+- **Database:** Cloud-hosted MySQL  
+- **Testing:** Jest, React Testing Library (46 tests in total)
+
+#### 🚀 Key Features
+- **Role-Based Dashboards:** Dedicated UIs for candidates, lecturers, and admins  
+- **REST + GraphQL API:** RESTful APIs for public use, GraphQL for admin operations  
+- **Real-Time Notifications:** Admin gets notified via WebSockets when candidate availability changes  
+- **Advanced Filtering:** Lecturer dashboard supports multi-layered filters (availability, skill set, session type, etc.)  
+- **Application System:** Full application lifecycle with status tracking and review tools  
+- **Admin Reporting Suite:** Generate reports like multi-course candidates, unselected applicants, and course-tutor matching stats  
+- **Security:** Full validation (DTOs, controller-level), route guards, and session/token management  
+- **Test Coverage:** Authentication flow, route protection, role-based rendering, navbar states, and login edge cases
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,graphql,mysql,jest" />
+    </a>
+  </p>  
+
+
 #### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
 📍 _Sep 2024 – Nov 2024_  
 🏆 **CSIT x SWITCH Hackathon – 2nd Place Winner**  
@@ -319,7 +352,7 @@ When I’m not coding, you’ll often find me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,java,python,typescript,javascript,react,nextjs,nodejs,postgresql,mongodb,aws,tailwindcss,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,java,python,typescript,javascript,react,nextjs,nodejs,express,graphql,postgresql,mysql,mongodb,jest,tailwindcss,aws,arduino,unity,dotnet" />
   </a>
 </p>  
 
