@@ -2,7 +2,7 @@
 
 ## About Me ℹ️  
 
-Hi there! I’m Gia Tín Huỳnh Đức (he/him), a passionate **Full-Stack Developer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and dedicated **Project Manager**. I specialize in building innovative, scalable solutions that blend creativity, collaboration, and cutting-edge technology. Driven by a desire to solve real-world problems, I thrive in fast-paced environments that push boundaries and foster growth.  
+Hi there! I’m Gia Tín Huỳnh Đức (he/him), a passionate **Full-Stack Software Engineer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and dedicated **Project Manager**. I specialize in building innovative, scalable solutions that blend creativity, collaboration, and cutting-edge technology. Driven by a desire to solve real-world problems, I thrive in fast-paced environments that push boundaries and foster growth.  
 
 **Fun Fact:** I’ve got an **offline survival manual** on my phone—just in case! 🧭  
 
@@ -24,15 +24,16 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-## 💻 Projects  
+## Professional Experience
 
-### Full-Stack Applications  
+- **Full Stack Software Engineer @ Project Pluto**:
 
-#### [**GreenBook**](https://green-book-sigma.vercel.app/)  
+#### [**GreenBook**](https://www.makegreenbook.com/)  
 📍 _Nov 2024 – Present_  
-💼 **A Project at Project Pluto**
-- **Description:** A platform designed to transform traditional marketing materials into dynamic digital experiences, emphasizing sustainability and innovation. It supports both programmatic and visual development workflows, streamlining the creation, deployment, and management of digital marketing assets.
-- **Role:** Lead Full-Stack Software Engineer
+💼 **A Project at Project Pluto**  
+- **Description:** A sustainability-focused platform transforming traditional print marketing into data-driven digital experiences. Includes visual and programmatic workflows for managing digital assets with full automation of project setup, deployment, and analytics.
+- **Role:** Lead Full-Stack Software Engineer  
+- **Impact:** Reduced manual workload by 40%, integrated GA4/PostHog for analytics, supported API integrations for CMS, CRM, and asset management.
 - **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
@@ -41,6 +42,70 @@ When I’m not coding, you’ll often find me:
   </p>  
 
 ---
+
+#### [**KOTO – Know One Teach One**](https://www.koto.com.au/news-media)  
+📍 _Jan 2025 – Apr 2025_  
+💼 **Media Center & Blog Platform for Social Impact**  
+- **Description:** A digital media center and blog platform supporting KOTO’s mission to empower at-risk youth through hospitality training.  
+- **Role:** Full-Stack Developer  
+- **Impact:** 12K+ visitors; deployed responsive media/blog site using Payload CMS and Webstudio; optimized for mobile and accessibility.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss" />
+    </a>
+  </p>  
+
+---
+
+#### [**Newing Website**](http://brochure.newing.vn/)  
+📍 _Feb 2025 – Mar 2025_  
+💼 **Corporate Website & Analytics Dashboard**  
+- **Description:** A clean, professional website for Newing, integrated with GreenBook’s backend for analytics and marketing content automation.  
+- **Role:** Frontend Developer  
+- **Impact:** 10K+ visitors; improved content visibility through integrated dashboards and shared analytics.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" />
+    </a>
+  </p>  
+
+---
+
+#### [**Sustainability Impact Challenge 2025**](https://sic.makegreenbook.com/)  
+📍 _Mar 2025 – Apr 2025_  
+💼 **Event Microsite for RMIT Vietnam**  
+- **Description:** A microsite for RMIT’s flagship sustainability event, built for accessibility and scale.  
+- **Role:** Full-Stack Developer  
+- **Impact:** 1K+ visitors; delivered a performance-optimized and easy-to-maintain platform for a university-led sustainability initiative.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" />
+    </a>
+  </p>  
+
+---
+
+#### [**Alumni Impact Showcase 2025**](https://www.rmitalumnishowcase.com/)  
+📍 _Apr 2025 – Jun 2025_  
+💼 **Global Alumni Recognition Platform – RMIT Vietnam**  
+- **Description:** A Webflow-based platform highlighting 130+ alumni-led projects from around the globe.  
+- **Role:** Web Developer & Automation Lead  
+- **Impact:** 50K+ views, 24K+ returning visitors; automated nomination workflows using Make.com and built an elegant UX for content discovery.  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=webflow" />
+    </a>
+  </p>  
+
+---
+
+## 💻 Projects  
+
+### Full-Stack Applications  
 
 #### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
 📍 _Sep 2024 – Nov 2024_  
