@@ -26,7 +26,7 @@ When I’m not coding, you’ll often find me:
 
 ## Professional Experience
 
-- **Full Stack Software Engineer @ Project Pluto**:
+### Full Stack Software Engineer @ Project Pluto
 
 #### [**GreenBook**](https://www.makegreenbook.com/)  
 📍 _Nov 2024 – Present_  
