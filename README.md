@@ -24,6 +24,17 @@ When I’m not coding, you’ll often find me:
 
 ---
 
+## 🌐 Tech Stack  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,java,python,typescript,javascript,react,nextjs,nodejs,express,graphql,postgresql,mysql,mongodb,jest,tailwindcss,aws,arduino,unity,dotnet" />
+  </a>
+</p>  
+
+---
+
+
 ## Professional Experience
 
 ### Full Stack Software Engineer @ Project Pluto
@@ -345,16 +356,6 @@ When I’m not coding, you’ll often find me:
       <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
     </a>
   </p>  
-
----
-
-## 🌐 Tech Stack  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,java,python,typescript,javascript,react,nextjs,nodejs,express,graphql,postgresql,mysql,mongodb,jest,tailwindcss,aws,arduino,unity,dotnet" />
-  </a>
-</p>  
 
 ---
 
