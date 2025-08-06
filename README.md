@@ -181,6 +181,69 @@ When I’m not coding, you’ll often find me:
 
 ---
 
+### 🎮 Game Development Projects
+
+#### [**Frog Game & Connect Four AI – Unity Game AI Project**](https://github.com/YOUR_REPO_HERE)  
+📍 _Mar 2025 – Jun 2025_  
+💼 **Course Project for COSC2527 / COSC3144 – RMIT University**
+
+- **Description:** A Unity-based dual-game project demonstrating advanced artificial intelligence techniques in both real-time navigation and turn-based strategy. Includes a survival game ("Frog Game") and a multi-agent Connect Four implementation.  
+- **Role:** Lead Game AI Developer & Systems Architect  
+
+#### 🐸 Frog Game
+- **Behavior Tree AI:** Modular decision-making with conditionals, actions, and blackboard system  
+- **Advanced Pathfinding:** A* algorithm with 5+ heuristic types and dynamic terrain cost handling  
+- **AI Combat System:** Auto-targeting and threat response against enemies (snakes)  
+- **Environmental Awareness:** Terrain-aware movement, predictive targeting, and path caching  
+- **Debug & Optimization:** Real-time behavior visualization, performance metrics, and stuck detection  
+
+#### 🎯 Connect Four AI
+- **Allis Agent:** Implements Victor Allis's expert strategy (9 rule types + Zugzwang detection)  
+- **Minimax with Alpha-Beta Pruning:** Iterative deepening, Zobrist hashing, and time-limited depth  
+- **Monte Carlo Tree Search (MCTS):** Simulation-based agent with UCB1  
+- **Other Agents:** Rule-based, Random, and Human-controlled agents  
+- **Gameplay Customization:** Configurable board size, win conditions, agent matchups  
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=unity,csharp" />
+    </a>
+  </p>  
+
+---
+
+#### [**Soneat Generation 3: Reinforcement Belief**](https://github.com/YOUR_REPO_HERE)  
+📍 _Apr 2025 – Jul 2025_  
+💼 **AI-Powered Game Project for COSC2527 / COSC3144 – RMIT University**
+
+- **Description:** A Unity-based endless runner game blending Sonic-inspired gameplay with advanced neuroevolutionary AI. Features dual gameplay modes: manual play and AI learning via NEAT (NeuroEvolution of Augmenting Topologies), with support for real-time training, multi-agent simulation, and neural network visualization.  
+- **Role:** Team Leader & Core Systems Developer  
+
+#### 🧠 NEAT AI System
+- Full NEAT implementation with real-time evolution, species management, and dynamic topology updates  
+- 12-input vision system for obstacle detection, speed adaptation, and combo pattern analysis  
+- Save/load AI models with training metadata and visualized neural networks
+
+#### 🏃 Gameplay Highlights
+- Chrome Dino–inspired progression with boss battles, combo obstacle clusters, and dynamic difficulty scaling  
+- Two gameplay modes: **Human-Controlled** and **AI Training Mode** with up to 50 agents  
+- Classic Sonic-style movement with animated sprites, terrain effects, and adaptive music
+
+#### 🛠 Technical Highlights
+- Modular architecture: `GameManager`, `ObstacleManager`, `Population`, `BossManager`  
+- Performance-optimized: Object pooling, fast-forward training, memory-efficient collision  
+- Boss system with multi-phase attacks, visual indicators, and training-aware AI behavior
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=unity,csharp" />
+    </a>
+  </p>  
+
+---
+
 ### IoT Innovations  
 
 #### [**Sky Garden**](https://github.com/giatinhuynh/COSC2500-Sky-GardenIoT-A4-11)  
