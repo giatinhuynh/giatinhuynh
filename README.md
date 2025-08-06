@@ -41,7 +41,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**KOTO – Know One Teach One**](https://www.koto.com.au/news-media)  
 📍 _Jan 2025 – Apr 2025_  
@@ -56,7 +55,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Newing Website**](http://brochure.newing.vn/)  
 📍 _Feb 2025 – Mar 2025_  
@@ -71,7 +69,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Sustainability Impact Challenge 2025**](https://sic.makegreenbook.com/)  
 📍 _Mar 2025 – Apr 2025_  
@@ -86,7 +83,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Alumni Impact Showcase 2025**](https://www.rmitalumnishowcase.com/)  
 📍 _Apr 2025 – Jun 2025_  
@@ -119,7 +115,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Medea**](https://github.com/giatinhuynh/Medea)  
 📍 _Aug 2024 – Nov 2024_  
@@ -133,7 +128,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Student Check-In Web App**](https://github.com/RMIT-FinTech-Club/Check-in-System)  
 📍 _Mar 2024 – Jun 2024_  
@@ -152,7 +146,6 @@ When I’m not coding, you’ll often find me:
 
 ---
 
-
 ### Java Applications  
 
 #### [**Port Management System**](https://github.com/giatinhuynh/COSC2081_team_2)  
@@ -166,7 +159,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**The Reading Room**](https://github.com/giatinhuynh/thereadingroom)  
 📍 _Aug 2024 – Nov 2024_  
@@ -210,8 +202,6 @@ When I’m not coding, you’ll often find me:
       <img src="https://skillicons.dev/icons?i=unity,csharp" />
     </a>
   </p>  
-
----
 
 #### [**Soneat Generation 3: Reinforcement Belief**](https://github.com/YOUR_REPO_HERE)  
 📍 _Apr 2025 – Jul 2025_  
@@ -257,7 +247,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Automated Greenhouse System**](https://github.com/giatinhuynh/green-house-system)  
 📍 _Jul 2023 – Aug 2023_  
@@ -273,8 +262,6 @@ When I’m not coding, you’ll often find me:
 ---
 
 ### General Software Projects  
-
----
 
 #### [**Electoral Database Management System**](https://github.com/giatinhuynh/victoriavotingsystem)  
 📍 _Aug 2024 – Oct 2024_  
@@ -292,7 +279,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
 
 #### [**Otaku Universe**](https://github.com/giatinhuynh/Otaku-Universe)  
 📍 _Jul 2023 – Aug 2023_  
@@ -305,8 +291,6 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
----
-
 #### [**Cookery**](https://github.com/giatinhuynh/Cookerynoserver)  
 📍 _Mar 2023 – May 2023_  
 - **Description:** AI-powered chatbot providing personalized recipe recommendations and culinary tips.  
@@ -317,8 +301,6 @@ When I’m not coding, you’ll often find me:
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </a>
   </p>  
-
----
 
 #### [**Kookasap**](https://github.com/giatinhuynh/Kookasap)  
 📍 _Oct 2022 – Dec 2022_  
