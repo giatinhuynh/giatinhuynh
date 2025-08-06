@@ -219,7 +219,7 @@ When I’m not coding, you’ll often find me:
 
 ### 🎮 Game Development Projects
 
-#### [**Frog Game & Connect Four AI – Unity Game AI Project**](https://github.com/YOUR_REPO_HERE)  
+#### [**Frog Game & Connect Four AI – Unity Game AI Project**](https://github.com/giatinhuynh/gai-a2)  
 📍 _Mar 2025 – Jun 2025_  
 💼 **Course Project for COSC2527 / COSC3144 – RMIT University**
 
@@ -247,7 +247,7 @@ When I’m not coding, you’ll often find me:
     </a>
   </p>  
 
-#### [**Soneat Generation 3: Reinforcement Belief**](https://github.com/YOUR_REPO_HERE)  
+#### [**Soneat Generation 3: Reinforcement Belief**](https://github.com/giatinhuynh/gai-a3)  
 📍 _Apr 2025 – Jul 2025_  
 💼 **AI-Powered Game Project for COSC2527 / COSC3144 – RMIT University**
 
