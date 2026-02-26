@@ -147,6 +147,34 @@ When I’m not coding, you’ll often find me:
   </p>  
 
 
+#### [**CareerHub – Career Events Platform**](https://github.com/giatinhuynh/career-hub)  
+📍 _2025_  
+💼 **Full-Stack Team Project for RMIT's Software Engineering Process & Tools Course**
+
+- **Description:** An events-first platform where students discover career-oriented opportunities — career fairs, networking nights, workshops, panels, and hackathons — each with category-specific interactive features built for real professional outcomes.  
+- **Role:** Scrum Master, Tech Lead & Full Stack Developer  
+- **Impact:** Led a team of 5 to deliver a comprehensive career events platform with 504 passing tests, Docker containerization, and AWS cloud deployment.
+
+#### 🔧 System Architecture
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+- **Backend API:** Spring Boot (Java 17), JPA, PostgreSQL  
+- **Infrastructure:** Docker, AWS (EC2, RDS, S3, ECR), GitHub Actions CI/CD  
+- **Testing:** JUnit 5/Mockito (27 suites) + Jest/RTL (22 suites) — 504 tests total
+
+#### 🚀 Key Features
+- **Category-Specific Events:** Career Fair booth directory with floor maps & 1:1 slots, Networking Night speed-rounds with icebreaker quests, Workshop guided runbooks with rubric scoring, Panel moderated Q&A with upvoting  
+- **Core Platform:** Events & RSVP CRUD, role-based access, event discovery with filters  
+- **DevOps:** Docker containerization, GitHub Actions CI pipeline, AWS ECR deployment  
+- **Leadership:** Sprint planning, retrospectives, SRS documentation, architecture design, GitHub project board management
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss,java,spring,postgresql,docker,aws,githubactions" />
+    </a>
+  </p>  
+
+
 #### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
 📍 _Sep 2024 – Nov 2024_  
 🏆 **CSIT x SWITCH Hackathon – 2nd Place Winner**  
@@ -212,6 +240,39 @@ When I’m not coding, you’ll often find me:
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,sqlite" />
+    </a>
+  </p>  
+
+---
+
+### 📱 iOS Applications
+
+#### [**Know Thyself – iOS Self-Reflection App**](https://github.com/giatinhuynh/know-thyself)  
+📍 _2025_  
+💼 **iOS Application for RMIT's iPhone Software Engineering Course**
+
+- **Description:** A comprehensive iOS app designed to facilitate daily self-reflection and personal growth through structured questioning, AI-powered insights, and pattern recognition. Built to professional App Store standards with widget extensions, UIKit integration, and LLM-powered personalization.  
+- **Role:** iOS Developer & AI Integration Lead  
+- **Impact:** Delivered a production-grade iOS app with widget extensions, Gemini API integration, custom gestures, and comprehensive DocC documentation.
+
+#### 🔧 Architecture
+- **Framework:** SwiftUI with MVVM pattern and ObservableObject state management  
+- **Data:** SwiftData (local) + Firebase (cloud) dual persistence  
+- **AI:** Google Gemini API for personalized psychological insights  
+- **Testing:** 10 unit tests covering core functionality, data models, and business logic
+
+#### 🚀 Key Features
+- **Reflection Modes:** Daily (10 questions) and Full (50+ questions across 9 life areas)  
+- **AI-Generated Insights:** Pattern recognition, growth recommendations, and personalized summaries  
+- **Widget Extension:** Home screen widget with streak tracking, quick actions, and App Group data sharing  
+- **Rich Text Editor:** UIKit-integrated via UIViewControllerRepresentable for formatted journaling  
+- **Mindful Tab:** Custom multi-gesture breathing exercises with visual and haptic feedback  
+- **Custom Layouts:** TagCloudLayout and AppLogoLayout protocol implementations
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=swift,firebase" />
     </a>
   </p>  
 
