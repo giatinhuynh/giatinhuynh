@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="280" viewBox="0 0 900 280">
+  <image href="hero.jpeg" x="0" y="0" width="900" height="280" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="50" y="70" width="800" height="140" rx="8" fill="rgba(13,17,23,0.85)"/>
+  <text x="450" y="128" font-family="Arial Black, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Peter/Shinya</text>
+  <text x="450" y="168" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#8b949e" text-anchor="middle">AI · Full-Stack · Cloud · Project Manager</text>
+</svg>

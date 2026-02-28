@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:1a1a1a&height=220&section=header&text=Peter%2FShinya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Project%20Manager&descSize=20&descAlignY=78&descColor=c9c9c9&animation=scaleIn" width="100%" alt="Banner" />
+  <img src="./profile/banner.svg" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -421,7 +421,7 @@ When I'm not coding:
 #### **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,csharp" />
+      <img src="https://skillicons.dev/icons?i=unity,cs" />
     </a>
   </p>  
 
@@ -450,7 +450,7 @@ When I'm not coding:
 #### **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,csharp" />
+      <img src="https://skillicons.dev/icons?i=unity,cs" />
     </a>
   </p>  
 
@@ -497,7 +497,7 @@ When I'm not coding:
 - **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlserver,azure" />
+      <img src="https://skillicons.dev/icons?i=dotnet,azure" />
     </a>
   </p>  
 
