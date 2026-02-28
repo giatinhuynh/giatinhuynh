@@ -9,13 +9,13 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech—and I'm driven by solving real-world problems in fast-paced environments.
+I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech, and I'm driven by solving real-world problems in fast-paced environments.
 
-**Fun fact:** I've got an **offline survival manual** on my phone—just in case. 🧭
+**Fun fact:** I've got an **offline survival manual** on my phone, just in case. 🧭
 
 When I'm not coding:
 - **Watching & discussing** anime, manga, and cartoons (and writing reviews). _Top 3: Cowboy Bebop, Steins;Gate, Vagabond._
-- **Listening to—and sometimes making—music.**
+- **Listening to (and sometimes making) music.**
 - **Dancing** and playing **video games** (competitive and story-driven). 
 
 <p align="center">
@@ -71,15 +71,15 @@ When I'm not coding:
 
 ### Co-Technical Lead, Founding Software Engineer @ [Orbitify](https://olanding-personal.vercel.app/)
 
-📍 _Nov 2025 – Present_  
+📍 _Nov 2025 - Present_  
 💼 **One Platform, AI-Powered, for Planning & Design**
 
-- **Description:** Orbitify provides the AI tools and cloud infrastructure to build, scale, and optimize a more sustainable future. A unified platform for planning, inspections, field teams, and assets—from pre-construction to operations—for Energy, Manufacturing, Construction, Data Centers, Smart Cities, and more.
+- **Description:** Orbitify provides the AI tools and cloud infrastructure to build, scale, and optimize a more sustainable future. A unified platform for planning, inspections, field teams, and assets, from pre-construction to operations, for Energy, Manufacturing, Construction, Data Centers, Smart Cities, and more.
 - **Role:** Co-Technical Lead, Founding Software Engineer  
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Three.js, Mapbox, Java, Spring Boot, PostgreSQL (pgvector), Redis, Python, FastAPI, TensorFlow, YOLOv8, AWS.
 
 #### Details
-- **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection)—unifying planning, design, field workflows, and operations in one system.
+- **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection), unifying planning, design, field workflows, and operations in one system.
 - **GIS & Photogrammetry:** Architected a spatial system (Mapbox) and async Spring Boot APIs to process, stitch, and visualize large-scale drone survey orthomosaics via NodeODM.
 - **Geospatial & 3D Visualization:** Built interactive 3D visualizers (Three.js/Framer Motion) to map topology. Developed Java spatial algorithms mapping AI 2D bounding boxes to geographic coordinates.
 - **AI Anomaly Pipeline:** Designed a computer vision integration (Python/FastAPI/YOLOv8) mapping AI-detected damage to the frontend, autonomously generating maintenance Work Orders.
@@ -102,7 +102,7 @@ When I'm not coding:
 ### Full Stack Software Engineer @ Project Pluto
 
 #### [**GreenBook**](https://www.makegreenbook.com/)  
-📍 _Nov 2024 – Present_  
+📍 _Nov 2024 - Present_  
 💼 **A Project at Project Pluto**  
 - **Description:** A sustainability-focused platform transforming traditional print marketing into data-driven digital experiences. Includes visual and programmatic workflows for managing digital assets with full automation of project setup, deployment, and analytics.
 - **Role:** Lead Full-Stack Software Engineer  
@@ -115,8 +115,8 @@ When I'm not coding:
   </p>  
 
 
-#### [**KOTO – Know One Teach One**](https://www.koto.com.au/news-media)  
-📍 _Jan 2025 – Apr 2025_  
+#### [**KOTO - Know One Teach One**](https://www.koto.com.au/news-media)  
+📍 _Jan 2025 - Apr 2025_  
 💼 **Media Center & Blog Platform for Social Impact**  
 - **Description:** A digital media center and blog platform supporting KOTO’s mission to empower at-risk youth through hospitality training.  
 - **Role:** Full-Stack Developer  
@@ -130,7 +130,7 @@ When I'm not coding:
 
 
 #### [**Newing Website**](http://brochure.newing.vn/)  
-📍 _Feb 2025 – Mar 2025_  
+📍 _Feb 2025 - Mar 2025_  
 💼 **Corporate Website & Analytics Dashboard**  
 - **Description:** A clean, professional website for Newing, integrated with GreenBook’s backend for analytics and marketing content automation.  
 - **Role:** Frontend Developer  
@@ -144,7 +144,7 @@ When I'm not coding:
 
 
 #### [**Sustainability Impact Challenge 2025**](https://sic.makegreenbook.com/)  
-📍 _Mar 2025 – Apr 2025_  
+📍 _Mar 2025 - Apr 2025_  
 💼 **Event Microsite for RMIT Vietnam**  
 - **Description:** A microsite for RMIT’s flagship sustainability event, built for accessibility and scale.  
 - **Role:** Full-Stack Developer  
@@ -158,8 +158,8 @@ When I'm not coding:
 
 
 #### [**Alumni Impact Showcase 2025**](https://www.rmitalumnishowcase.com/)  
-📍 _Apr 2025 – Jun 2025_  
-💼 **Global Alumni Recognition Platform – RMIT Vietnam**  
+📍 _Apr 2025 - Jun 2025_  
+💼 **Global Alumni Recognition Platform - RMIT Vietnam**  
 - **Description:** A Webflow-based platform highlighting 130+ alumni-led projects from around the globe.  
 - **Role:** Web Developer & Automation Lead  
 - **Impact:** 50K+ views, 24K+ returning visitors; automated nomination workflows using Make.com and built an elegant UX for content discovery.  
@@ -177,7 +177,7 @@ When I'm not coding:
 ### Full-Stack Applications  
 
 #### [**OurList**](https://anime-duo-delight.vercel.app/)  
-📍 _Nov 2025 – Present_  
+📍 _Nov 2025 - Present_  
 ❤️ **A Unified Hub for Couples' Entertainment Tracking**
 
 - **Description:** A minimal, unified tracking platform born from a personal need to simplify entertainment management for couples. It centralizes anime, movies, books, music, and games into one clean hub, replacing fragmented tools like MyAnimeList, Letterboxd, and Goodreads.
@@ -200,8 +200,8 @@ When I'm not coding:
     </a>
   </p>  
 
-#### [**TeachTeam – Tutor Application System**](https://github.com/giatinhuynh/s3954173-s3962053-a2)  
-📍 _Apr 2025 – Jun 2025_  
+#### [**TeachTeam - Tutor Application System**](https://github.com/giatinhuynh/s3954173-s3962053-a2)  
+📍 _Apr 2025 - Jun 2025_  
 💼 **Full-Stack Application for RMIT’s Web Systems & Technologies Course**
 
 - **Description:** A robust and production-grade tutor application system built with a scalable full-stack architecture. The platform includes a public-facing portal, a role-based dashboard for tutors and lecturers, and a separate admin dashboard with GraphQL support for administrative functions.  
@@ -233,11 +233,11 @@ When I'm not coding:
   </p>  
 
 
-#### [**CareerHub – Career Events Platform**](https://github.com/giatinhuynh/career-hub)  
+#### [**CareerHub - Career Events Platform**](https://github.com/giatinhuynh/career-hub)  
 📍 _2025_  
 💼 **Full-Stack Team Project for RMIT's Software Engineering Process & Tools Course**
 
-- **Description:** An events-first platform where students discover career-oriented opportunities — career fairs, networking nights, workshops, panels, and hackathons — each with category-specific interactive features built for real professional outcomes.  
+- **Description:** An events-first platform where students discover career-oriented opportunities (career fairs, networking nights, workshops, panels, and hackathons), each with category-specific interactive features built for real professional outcomes.  
 - **Role:** Scrum Master, Tech Lead & Full Stack Developer  
 - **Impact:** Led a team of 5 to deliver a comprehensive career events platform with 504 passing tests, Docker containerization, and AWS cloud deployment.
 
@@ -245,7 +245,7 @@ When I'm not coding:
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
 - **Backend API:** Spring Boot (Java 17), JPA, PostgreSQL  
 - **Infrastructure:** Docker, AWS (EC2, RDS, S3, ECR), GitHub Actions CI/CD  
-- **Testing:** JUnit 5/Mockito (27 suites) + Jest/RTL (22 suites) — 504 tests total
+- **Testing:** JUnit 5/Mockito (27 suites) + Jest/RTL (22 suites), 504 tests total
 
 #### 🚀 Key Features
 - **Category-Specific Events:** Career Fair booth directory with floor maps & 1:1 slots, Networking Night speed-rounds with icebreaker quests, Workshop guided runbooks with rubric scoring, Panel moderated Q&A with upvoting  
@@ -262,8 +262,8 @@ When I'm not coding:
 
 
 #### [**RMatch**](https://github.com/giatinhuynh/RMatch)  
-📍 _Sep 2024 – Nov 2024_  
-🏆 **CSIT x SWITCH Hackathon – 2nd Place Winner**  
+📍 _Sep 2024 - Nov 2024_  
+🏆 **CSIT x SWITCH Hackathon - 2nd Place Winner**  
 - **Description:** A web app connecting RMIT students with teammates, friends, and study partners via a Tinder-style matching system.  
 - **Role:** Project Manager & Lead Developer  
 - **Technologies Used:**  
@@ -275,8 +275,8 @@ When I'm not coding:
 
 
 #### [**Medea**](https://github.com/giatinhuynh/Medea)  
-📍 _Aug 2024 – Nov 2024_  
-🏆 **Swin Hackathon 2024 – Top 28 Finalist**  
+📍 _Aug 2024 - Nov 2024_  
+🏆 **Swin Hackathon 2024 - Top 28 Finalist**  
 - **Description:** An all-in-one AI-powered media production platform designed to streamline workflows for creative professionals.  
 - **Role:** Full-Stack Developer & UI/UX Designer  
 - **Technologies Used:**  
@@ -288,7 +288,7 @@ When I'm not coding:
 
 
 #### [**Student Check-In Web App**](https://github.com/RMIT-FinTech-Club/Check-in-System)  
-📍 _Mar 2024 – Jun 2024_  
+📍 _Mar 2024 - Jun 2024_  
 - **Description:** A web app automating event check-in processes by streamlining data entry with advanced backend automation.  
 - **Role:** Backend Developer  
 - **Key Contributions:**  
@@ -306,12 +306,12 @@ When I'm not coding:
 
 ### 🤖 AI & Machine Learning
 
-#### [**Adversarial LLM Security — Blue & Red Team**](https://github.com/giatinhuynh/RMIT-CyberHack2025)  
+#### [**Adversarial LLM Security: Blue & Red Team**](https://github.com/giatinhuynh/RMIT-CyberHack2025)  
 📍 _Feb 2025_  
-🏆 **RMIT GenAI & Cyber Security Hackathon 2025 — Melbourne Campus Winner**  
+🏆 **RMIT GenAI & Cyber Security Hackathon 2025, Melbourne Campus Winner**  
 - **Description:** Blue Team (Challenge 2): jailbreak prompt detection on a 5,000-sample dataset. Red Team (Challenge 4): stress-testing Microsoft Azure OpenAI safety filters with ultra-advanced adversarial prompts. Part of the winning Melbourne campus team (600+ participants, 70+ teams).  
 - **Role:** Blue Team lead (ensemble ML), Red Team (adversarial prompt design & API testing)  
-- **Impact:** Blue Team: hybrid TF-IDF + BERT ensemble (DistilBERT, RoBERTa, DeBERTa) with early stopping and dynamic ensemble weighting — high validation AUCs. Red Team: 2 of 5 ultra-advanced prompts bypassed Azure OpenAI filters, revealing key LLM safety vulnerabilities.  
+- **Impact:** Blue Team: hybrid TF-IDF + BERT ensemble (DistilBERT, RoBERTa, DeBERTa) with early stopping and dynamic ensemble weighting; high validation AUCs. Red Team: 2 of 5 ultra-advanced prompts bypassed Azure OpenAI filters, revealing key LLM safety vulnerabilities.  
 - **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
@@ -324,7 +324,7 @@ When I'm not coding:
 ### Java Applications  
 
 #### [**Port Management System**](https://github.com/giatinhuynh/COSC2081_team_2)  
-📍 _Aug 2023 – Oct 2023_  
+📍 _Aug 2023 - Oct 2023_  
 - **Description:** A Java-based platform to track port resources, vehicle logs, and fuel consumption with CRUD functionality.  
 - **Role:** Team Leader  
 - **Technologies Used:**  
@@ -336,7 +336,7 @@ When I'm not coding:
 
 
 #### [**The Reading Room**](https://github.com/giatinhuynh/thereadingroom)  
-📍 _Aug 2024 – Nov 2024_  
+📍 _Aug 2024 - Nov 2024_  
 - **Description:** A bookstore management system enabling seamless book inventory, order tracking, and user management.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -350,7 +350,7 @@ When I'm not coding:
 
 ### 📱 iOS Applications
 
-#### [**Know Thyself – iOS Self-Reflection App**](https://github.com/giatinhuynh/know-thyself)  
+#### [**Know Thyself - iOS Self-Reflection App**](https://github.com/giatinhuynh/know-thyself)  
 📍 _2025_  
 💼 **iOS Application for RMIT's iPhone Software Engineering Course**
 
@@ -383,12 +383,12 @@ When I'm not coding:
 
 ### 🎮 Game Development Projects
 
-#### [**Rising Waters — Flood Crisis Management Simulator**](https://github.com/giatinhuynh/RMIT-CyberHack2025/tree/main/game_submission)  
+#### [**Rising Waters: Flood Crisis Management Simulator**](https://github.com/giatinhuynh/RMIT-CyberHack2025/tree/main/game_submission)  
 📍 _Feb 2025_  
-🏆 **RMIT GenAI & Cyber Security Hackathon 2025 — Melbourne Campus Winner (Challenge 3)**  
+🏆 **RMIT GenAI & Cyber Security Hackathon 2025, Melbourne Campus Winner (Challenge 3)**  
 - **Description:** Web-based strategic simulation game for flood crisis management. Players lead a community through 8 rounds, balancing Safety, Infrastructure, Morale, and Resource Points across 3 regional scenarios (Central Highlands, Hanoi Lowlands, Mekong Delta).  
 - **Role:** Game Developer  
-- **Impact:** Delivered an educational, accessible (WCAG 2.1 AA–oriented) game with EN/VI support; JSON-driven scenarios and responsive UI.  
+- **Impact:** Delivered an educational, accessible (WCAG 2.1 AA-oriented) game with EN/VI support; JSON-driven scenarios and responsive UI.  
 - **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
@@ -397,9 +397,9 @@ When I'm not coding:
   </p>
 
 
-#### [**Frog Game & Connect Four AI – Unity Game AI Project**](https://github.com/giatinhuynh/gai-a2)  
-📍 _Mar 2025 – Jun 2025_  
-💼 **Course Project for COSC2527 / COSC3144 – RMIT University**
+#### [**Frog Game & Connect Four AI - Unity Game AI Project**](https://github.com/giatinhuynh/gai-a2)  
+📍 _Mar 2025 - Jun 2025_  
+💼 **Course Project for COSC2527 / COSC3144 - RMIT University**
 
 - **Description:** A Unity-based dual-game project demonstrating advanced artificial intelligence techniques in both real-time navigation and turn-based strategy. Includes a survival game ("Frog Game") and a multi-agent Connect Four implementation.  
 - **Role:** Lead Game AI Developer & Systems Architect  
@@ -426,8 +426,8 @@ When I'm not coding:
   </p>  
 
 #### [**Soneat Generation 3: Reinforcement Belief**](https://github.com/giatinhuynh/gai-a3)  
-📍 _Apr 2025 – Jul 2025_  
-💼 **AI-Powered Game Project for COSC2527 / COSC3144 – RMIT University**
+📍 _Apr 2025 - Jul 2025_  
+💼 **AI-Powered Game Project for COSC2527 / COSC3144 - RMIT University**
 
 - **Description:** A Unity-based endless runner game blending Sonic-inspired gameplay with advanced neuroevolutionary AI. Features dual gameplay modes: manual play and AI learning via NEAT (NeuroEvolution of Augmenting Topologies), with support for real-time training, multi-agent simulation, and neural network visualization.  
 - **Role:** Team Leader & Core Systems Developer  
@@ -438,7 +438,7 @@ When I'm not coding:
 - Save/load AI models with training metadata and visualized neural networks
 
 #### 🏃 Gameplay Highlights
-- Chrome Dino–inspired progression with boss battles, combo obstacle clusters, and dynamic difficulty scaling  
+- Chrome Dino-inspired progression with boss battles, combo obstacle clusters, and dynamic difficulty scaling  
 - Two gameplay modes: **Human-Controlled** and **AI Training Mode** with up to 50 agents  
 - Classic Sonic-style movement with animated sprites, terrain effects, and adaptive music
 
@@ -459,7 +459,7 @@ When I'm not coding:
 ### IoT Innovations  
 
 #### [**Sky Garden**](https://github.com/giatinhuynh/COSC2500-Sky-GardenIoT-A4-11)  
-📍 _Sep 2023 – Oct 2023_  
+📍 _Sep 2023 - Oct 2023_  
 - **Description:** Advanced automated greenhouse system using IoT to improve sustainable farming practices.  
 - **Role:** IoT Developer & Team Leader  
 - **Technologies Used:**  
@@ -471,7 +471,7 @@ When I'm not coding:
 
 
 #### [**Automated Greenhouse System**](https://github.com/giatinhuynh/green-house-system)  
-📍 _Jul 2023 – Aug 2023_  
+📍 _Jul 2023 - Aug 2023_  
 - **Description:** A smart system combining adaptive watering, climate control, and real-time monitoring for efficient plant care.  
 - **Role:** IoT Developer & Team Leader  
 - **Technologies Used:**  
@@ -486,7 +486,7 @@ When I'm not coding:
 ### General Software Projects  
 
 #### [**Electoral Database Management System**](https://github.com/giatinhuynh/victoriavotingsystem)  
-📍 _Aug 2024 – Oct 2024_  
+📍 _Aug 2024 - Oct 2024_  
 - **Description:** A comprehensive database solution designed to manage and optimize federal electoral processes, including voter registration, ballot issuance, and result aggregation.  
 - **Role:** Database Developer  
 - **Key Contributions:**  
@@ -503,7 +503,7 @@ When I'm not coding:
 
 
 #### [**Otaku Universe**](https://github.com/giatinhuynh/Otaku-Universe)  
-📍 _Jul 2023 – Aug 2023_  
+📍 _Jul 2023 - Aug 2023_  
 - **Description:** Online bookstore and community hub for fans of manga and light novels worldwide.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -514,7 +514,7 @@ When I'm not coding:
   </p>  
 
 #### [**Cookery**](https://github.com/giatinhuynh/Cookerynoserver)  
-📍 _Mar 2023 – May 2023_  
+📍 _Mar 2023 - May 2023_  
 - **Description:** AI-powered chatbot providing personalized recipe recommendations and culinary tips.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -525,7 +525,7 @@ When I'm not coding:
   </p>  
 
 #### [**Kookasap**](https://github.com/giatinhuynh/Kookasap)  
-📍 _Oct 2022 – Dec 2022_  
+📍 _Oct 2022 - Dec 2022_  
 - **Description:** A recipe recommendation platform using responsive design principles.  
 - **Role:** Developer  
 - **Technologies Used:**  
@@ -543,8 +543,13 @@ When I'm not coding:
   <img src="./profile/stats.svg" alt="GitHub Stats" width="420" height="165" />
   <img src="https://streak-stats.demolab.com/?user=giatinhuynh&theme=dark&hide_border=true" alt="GitHub Streak" width="420" height="165" />
 </p>
+
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="420" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giatinhuynh&theme=github-dark&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 ---

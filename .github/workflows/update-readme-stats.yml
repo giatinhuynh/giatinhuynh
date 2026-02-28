@@ -35,13 +35,12 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
-          card: top-langs
-          options: username=giatinhuynh&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: giatinhuynh
+          outputs: |
+            profile/github-contribution-grid-snake.svg?palette=github-dark
 
       - name: Commit and push cards
         run: |
