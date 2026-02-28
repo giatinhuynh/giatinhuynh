@@ -15,6 +15,49 @@ When I’m not coding, you’ll often find me:
 
 ---
 
+## 🛠️ Skills  
+
+**I'm always eager to learn and adapt to new technologies on the go!**
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | Java, Python, C++, C#, JavaScript, TypeScript, Swift, Bash |
+| **Web Development** | HTML, CSS, React.js, Next.js, Tailwind CSS, Webflow, Webstudio |
+| **Backend & CMS** | Spring Boot, Node.js, Express, Firebase, Payload CMS, Prisma ORM |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase, SwiftData |
+| **Cloud & Hosting** | AWS, GCP, Azure, Vercel |
+| **DevOps & Automation** | Git, GitHub, Docker, Terraform, Ansible, GitHub Actions, Unix/Linux, n8n, Make.com |
+| **Testing** | Playwright, Jest, React Testing Library, JUnit, Mockito |
+| **Project Management** | Microsoft 365, Jira, Trello, Miro, Notion |
+| **Design & Prototyping** | Figma, Canva |
+| **Data Science & AI** | Jupyter Notebook, AI, LLMs |
+| **Agentic Coding & Prototyping** | Lovable, Cursor, Google Antigravity, Microsoft Copilot |
+| **Embedded & Game Dev** | Arduino, Unity |
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash&perline=8" title="Programming Languages" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,webflow&perline=6" title="Web Development" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase,prisma&perline=5" title="Backend & CMS" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4" title="Databases" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel&perline=4" title="Cloud & Hosting" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,ansible,githubactions,linux&perline=7" title="DevOps & Automation" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,notion,figma,ai,arduino,unity&perline=6" title="Testing, PM, Design, AI, Embedded & Game Dev" /></a>
+</p>
+
+---
+
 ## 🎓 Education  
 
 - **Bachelor of Information Technology**  
