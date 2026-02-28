@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=62A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Peter+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Enthusiast+%7C+Builder" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=62A5FA&height=120&section=header&text=Welcome&fontSize=40&fontColor=fff&animation=twinkling" alt="Header" />
+</div>
+
+
 # Hi there! I’m Gia Tín Huỳnh Đức (he/him), but you can call me Peter! 👋  
 
 ## About Me ℹ️  
@@ -12,6 +21,18 @@ When I’m not coding, you’ll often find me:
 - **Listening to music** (and sometimes creating my own tunes!).  
 - **Dancing** my heart out.  
 - Enjoying **video games**—both competitive and story-driven!  
+
+<p align="center">
+  <a href="https://linkedin.com/in/huynhducgiatin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giatinhuynh2612@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/giatinhuynh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -524,11 +545,34 @@ When I’m not coding, you’ll often find me:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giatinhuynh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=giatinhuynh&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giatinhuynh&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
+
+*Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)*
+
+---
+
 ## 🤝 Connect and Collaborate  
 
 I firmly believe in fostering **growth**, maintaining **clear communication**, and cultivating **teamwork** to achieve outstanding results. Let’s connect and collaborate to build innovative solutions, share knowledge, and grow together!  
 
-- **LinkedIn:** [Gia Tín Huỳnh Đức](https://linkedin.com/in/huynhducgiatin)  
-- **Email:** [giatinhuynh2612@gmail.com](mailto:giatinhuynh2612@gmail.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/huynhducgiatin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giatinhuynh2612@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/giatinhuynh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>  
 
 💡 **"Innovating at the crossroads of technology, creativity, and problem-solving."**  
