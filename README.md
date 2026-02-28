@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/neon-banner.svg" width="100%" alt="Hong Kong neon-style banner" />
+  <img src="https://raw.githubusercontent.com/giatinhuynh/giatinhuynh/main/profile/neon-banner.svg" width="100%" alt="Hong Kong neon-style banner" />
 </div>
 
 <div align="center">
@@ -545,11 +545,7 @@ When I'm not coding:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giatinhuynh&theme=github-dark&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/giatinhuynh/giatinhuynh/main/profile/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 ---
