@@ -30,7 +30,7 @@ When I’m not coding, you’ll often find me:
 ### Co-Technical Lead, Founding Software Engineer @ Orbitify
 
 📍 _Nov 2025 – Present_  
-💼 **One Platform, AI-Powered, for Planning & Design**
+💼 **One Platform, AI-Powered, for every step of an industrial project**
 
 - **Description:** Orbitify provides the AI tools and cloud infrastructure to build, scale, and optimize a more sustainable future. A unified platform for planning, inspections, field teams, and assets—from pre-construction to operations—for Energy, Manufacturing, Construction, Data Centers, Smart Cities, and more.
 - **Role:** Co-Technical Lead, Founding Software Engineer  
