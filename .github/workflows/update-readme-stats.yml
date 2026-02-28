@@ -40,7 +40,7 @@ jobs:
         with:
           github_user_name: giatinhuynh
           outputs: |
-            profile/github-contribution-grid-snake.svg?palette=github-dark
+            profile/github-contribution-grid-snake.svg?color_snake=%2339d353&color_dots=%2321262d,%2330363d,%23238636,%232ea043,%2339d353
 
       - name: Commit and push cards
         run: |
