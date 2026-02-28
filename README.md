@@ -57,6 +57,19 @@ When I'm not coding:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="420" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=giatinhuynh&theme=dark&hide_border=true" alt="GitHub Streak" width="420" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/giatinhuynh/giatinhuynh/main/profile/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+</p>
+
+---
+
 ## 🎓 Education  
 
 - **Bachelor of Information Technology**  
@@ -534,19 +547,6 @@ When I'm not coding:
       <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
     </a>
   </p>  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="420" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=giatinhuynh&theme=dark&hide_border=true" alt="GitHub Streak" width="420" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/giatinhuynh/giatinhuynh/main/profile/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-</p>
 
 ---
 
