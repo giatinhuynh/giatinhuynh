@@ -1,26 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=62A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Peter+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Enthusiast+%7C+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:21262d&height=180&section=header&text=Peter&fontSize=64&fontColor=58a6ff&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%C2%B7%20Cloud%20%C2%B7%20Builder&descSize=20&descAlignY=65&animation=fadeIn" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Welcome&fontSize=36&fontColor=fff" alt="Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Gia%20T%C3%ADn+Hu%E1%BB%B3nh+%C4%90%E1%BB%A9c+%28Peter%29+%F0%9F%91%8B;he%2Fhim+%C2%B7+Melbourne+%7C+RMIT+%2726" alt="Typing intro" />
 </div>
 
 
-# Hi there! I’m Gia Tín Huỳnh Đức (he/him), but you can call me Peter! 👋  
+## About Me
 
-## About Me ℹ️  
+I'm a **Full-Stack Software Engineer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech—and I'm driven by solving real-world problems in fast-paced environments.
 
-Hi there! I’m Gia Tín Huỳnh Đức (he/him), a passionate **Full-Stack Software Engineer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and dedicated **Project Manager**. I specialize in building innovative, scalable solutions that blend creativity, collaboration, and cutting-edge technology. Driven by a desire to solve real-world problems, I thrive in fast-paced environments that push boundaries and foster growth.  
+**Fun fact:** I've got an **offline survival manual** on my phone—just in case. 🧭
 
-**Fun Fact:** I’ve got an **offline survival manual** on my phone—just in case! 🧭  
-
-When I’m not coding, you’ll often find me:  
-- **Watching and discussing** popular media like anime, manga, and cartoons, and writing reviews to share my thoughts.  
-  _Top 3: Cowboy Bebop, Steins;Gate, and Vagabond_  
-- **Listening to music** (and sometimes creating my own tunes!).  
-- **Dancing** my heart out.  
-- Enjoying **video games**—both competitive and story-driven!  
+When I'm not coding:
+- **Watching & discussing** anime, manga, and cartoons (and writing reviews). _Top 3: Cowboy Bebop, Steins;Gate, Vagabond._
+- **Listening to—and sometimes making—music.**
+- **Dancing** and playing **video games** (competitive and story-driven). 
 
 <p align="center">
   <a href="https://linkedin.com/in/huynhducgiatin">
@@ -30,7 +26,7 @@ When I’m not coding, you’ll often find me:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/giatinhuynh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" />
   </a>
 </p>
 
@@ -585,7 +581,7 @@ I firmly believe in fostering **growth**, maintaining **clear communication**, a
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/giatinhuynh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" />
   </a>
 </p>  
 
