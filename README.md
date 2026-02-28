@@ -37,7 +37,7 @@ When I’m not coding, you’ll often find me:
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Three.js, Mapbox, Java, Spring Boot, PostgreSQL (pgvector), Redis, Python, FastAPI, TensorFlow, YOLOv8, AWS.
 
 #### Details
-- **Full-Stack Asset Platform:** Engineered a multi-tenant EAM platform (React/Spring Boot) for full-lifecycle tracking of renewable energy assets.
+- **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection) for full-lifecycle asset tracking across energy, manufacturing, construction, and infrastructure—unifying planning, design, inspections, and operations in one modular system.
 - **GIS & Photogrammetry:** Architected a spatial system (Mapbox) and async Spring Boot APIs to process, stitch, and visualize large-scale drone survey orthomosaics via NodeODM.
 - **Geospatial & 3D Visualization:** Built interactive 3D visualizers (Three.js/Framer Motion) to map topology. Developed Java spatial algorithms mapping AI 2D bounding boxes to geographic coordinates.
 - **AI Anomaly Pipeline:** Designed a computer vision integration (Python/FastAPI/YOLOv8) mapping AI-detected damage to the frontend, autonomously generating maintenance Work Orders.
