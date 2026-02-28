@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:21262d&height=180&section=header&text=Peter&fontSize=64&fontColor=58a6ff&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%C2%B7%20Cloud%20%C2%B7%20Builder&descSize=20&descAlignY=65&animation=fadeIn" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:21262d&height=220&section=header&text=Peter%2FShinya&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Project%20Manager&descSize=20&descAlignY=78&animation=fadeIn" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Gia%20T%C3%ADn+Hu%E1%BB%B3nh+%C4%90%E1%BB%A9c+%28Peter%29+%F0%9F%91%8B;he%2Fhim+%C2%B7+Melbourne+%7C+RMIT+%2726" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1500&color=8b949e&center=true&vCenter=true&width=540&lines=Hi%2C+I'm+Gia%20T%C3%ADn+Hu%E1%BB%B3nh+%C4%90%E1%BB%A9c+%28Peter%2FShinya%29+%F0%9F%91%8B;he%2Fhim+%C2%B7+Melbourne+%7C+RMIT+%2726" alt="Typing intro" />
 </div>
 
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer**, **Cloud Computing Enthusiast**, aspiring **AI Engineer**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech—and I'm driven by solving real-world problems in fast-paced environments.
+I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech—and I'm driven by solving real-world problems in fast-paced environments.
 
 **Fun fact:** I've got an **offline survival manual** on my phone—just in case. 🧭
 
