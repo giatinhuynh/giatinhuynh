@@ -27,17 +27,17 @@ When I’m not coding, you’ll often find me:
 
 ## Professional Experience
 
-### Co-Technical Lead, Founding Software Engineer @ Orbitify
+### Co-Technical Lead, Founding Software Engineer @ [Orbitify](https://olanding-personal.vercel.app/)
 
 📍 _Nov 2025 – Present_  
-💼 **One Platform, AI-Powered, for every step of an industrial project**
+💼 **One Platform, AI-Powered, for Planning & Design**
 
 - **Description:** Orbitify provides the AI tools and cloud infrastructure to build, scale, and optimize a more sustainable future. A unified platform for planning, inspections, field teams, and assets—from pre-construction to operations—for Energy, Manufacturing, Construction, Data Centers, Smart Cities, and more.
 - **Role:** Co-Technical Lead, Founding Software Engineer  
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Three.js, Mapbox, Java, Spring Boot, PostgreSQL (pgvector), Redis, Python, FastAPI, TensorFlow, YOLOv8, AWS.
 
 #### Details
-- **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection) for full-lifecycle asset tracking across energy, manufacturing, construction, and infrastructure—unifying planning, design, inspections, and operations in one modular system.
+- **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection)—unifying planning, design, field workflows, and operations in one system.
 - **GIS & Photogrammetry:** Architected a spatial system (Mapbox) and async Spring Boot APIs to process, stitch, and visualize large-scale drone survey orthomosaics via NodeODM.
 - **Geospatial & 3D Visualization:** Built interactive 3D visualizers (Three.js/Framer Motion) to map topology. Developed Java spatial algorithms mapping AI 2D bounding boxes to geographic coordinates.
 - **AI Anomaly Pipeline:** Designed a computer vision integration (Python/FastAPI/YOLOv8) mapping AI-detected damage to the frontend, autonomously generating maintenance Work Orders.
@@ -127,7 +127,7 @@ When I’m not coding, you’ll often find me:
 
 ### Full-Stack Applications  
 
-#### **OurList**  
+#### [**OurList**](https://anime-duo-delight.vercel.app/)  
 📍 _Nov 2025 – Present_  
 ❤️ **A Unified Hub for Couples' Entertainment Tracking**
 
