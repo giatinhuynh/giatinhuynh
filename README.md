@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:1a1a1a&height=220&section=header&text=Peter%2FShinya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Project%20Manager&descSize=20&descAlignY=78&descColor=c9c9c9&animation=scaleIn" width="100%" alt="Banner" />
+  <img src="./profile/neon-banner.svg" width="100%" alt="Hong Kong neon-style banner" />
 </div>
 
 <div align="center">
@@ -36,6 +36,10 @@ When I'm not coding:
 
 **I'm always eager to learn and adapt to new technologies on the go!**
 
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash,html,css,react,nextjs,tailwindcss,webflow,spring,nodejs,express,firebase,prisma,postgres,mysql,mongodb,supabase,aws,gcp,azure,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,notion,figma,arduino,unity&perline=14" title="Skills" /></a>
+</p>
+
 | Category | Technologies |
 |----------|--------------|
 | **Programming Languages** | Java, Python, C++, C#, JavaScript, TypeScript, Swift, Bash |
@@ -50,28 +54,6 @@ When I'm not coding:
 | **Data Science & AI** | Jupyter Notebook, AI, LLMs |
 | **Agentic Coding & Prototyping** | Lovable, Cursor, Google Antigravity, Microsoft Copilot |
 | **Embedded & Game Dev** | Arduino, Unity |
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash&perline=8" title="Programming Languages" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,webflow&perline=6" title="Web Development" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase,prisma&perline=5" title="Backend & CMS" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4" title="Databases" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel&perline=4" title="Cloud & Hosting" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,terraform,ansible,githubactions,linux&perline=7" title="DevOps & Automation" /></a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,notion,figma,ai,arduino,unity&perline=6" title="Testing, PM, Design, AI, Embedded & Game Dev" /></a>
-</p>
 
 ---
 
