@@ -208,6 +208,13 @@ When I’m not coding, you’ll often find me:
 - **Backend & DB:** Supabase (PostgreSQL, Auth)  
 - **Integrations:** MyAnimeList API, TMDB API, Spotify API  
 
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,supabase,postgresql" />
+    </a>
+  </p>  
+
 #### [**TeachTeam – Tutor Application System**](https://github.com/giatinhuynh/s3954173-s3962053-a2)  
 📍 _Apr 2025 – Jun 2025_  
 💼 **Full-Stack Application for RMIT’s Web Systems & Technologies Course**
