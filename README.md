@@ -37,23 +37,24 @@ When I'm not coding:
 **I'm always eager to learn and adapt to new technologies on the go!**
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash,html,css,react,nextjs,tailwindcss,webflow,spring,nodejs,express,firebase,prisma,postgres,mysql,mongodb,supabase,aws,gcp,azure,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,notion,figma,arduino,unity&perline=14" title="Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash,html,css,react,nextjs,tailwindcss,webflow,spring,nodejs,express,firebase,prisma,postgres,mysql,mongodb,supabase,aws,gcp,azure,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,notion,figma,arduino,unity,vite,flask,redis,graphql&perline=14" title="Skills" /></a>
 </p>
 
 | Category | Technologies |
 |----------|--------------|
-| **Programming Languages** | Java, Python, C++, C#, JavaScript, TypeScript, Swift, Bash |
-| **Web Development** | HTML, CSS, React.js, Next.js, Tailwind CSS, Webflow, Webstudio |
-| **Backend & CMS** | Spring Boot, Node.js, Express, Firebase, Payload CMS, Prisma ORM |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase, SwiftData |
-| **Cloud & Hosting** | AWS, GCP, Azure, Vercel |
+| **Programming Languages** | Java (17), Python, C++, C#, JavaScript, TypeScript, Swift, Bash, SQL |
+| **Web Development** | HTML, CSS, React.js, Next.js, Vite, Tailwind CSS, Webflow, Webstudio, Three.js, Framer Motion, shadcn/ui |
+| **Backend & CMS** | Spring Boot 3, Spring Security, JWT, Node.js, Express, Flask, FastAPI, Firebase, Payload CMS, Prisma ORM, TypeORM, OpenAPI/Swagger |
+| **Databases** | PostgreSQL, pgvector, MySQL, MongoDB, SQLite, Supabase, SwiftData, Redis, Flyway, SQLAlchemy, Alembic |
+| **Cloud & Hosting** | AWS (S3, ECS Fargate, ECR, SageMaker, Lambda@Edge, Bedrock), GCP, Azure, Vercel |
 | **DevOps & Automation** | Git, GitHub, Docker, Terraform, Ansible, GitHub Actions, Unix/Linux, n8n, Make.com |
-| **Testing** | Playwright, Jest, React Testing Library, JUnit, Mockito |
+| **Testing** | Playwright, Jest, React Testing Library, JUnit, Mockito, Selenium |
 | **Project Management** | Microsoft 365, Jira, Trello, Miro, Notion |
 | **Design & Prototyping** | Figma, Canva |
-| **Data Science & AI** | Jupyter Notebook, AI, LLMs |
+| **ML/CV & AI** | TensorFlow/Keras, Ultralytics (YOLOv8), Mask R-CNN, OpenCV, rasterio, SAHI, Shapely; LangChain, LangGraph, AWS Bedrock (Claude, Cohere), Gemini; pgvector (RAG), SageMaker (training); Jupyter Notebook, LLMs |
 | **Agentic Coding & Prototyping** | Lovable, Cursor, Google Antigravity, Microsoft Copilot |
 | **Embedded & Game Dev** | Arduino, Unity |
+| **APIs & Integrations** | REST API, GraphQL, Apollo, Clerk, Mapbox, GA4, PostHog; Node.js, Sharp (image processing) |
 
 ---
 
@@ -84,12 +85,12 @@ When I'm not coding:
 
 ### Co-Technical Lead, Founding Software Engineer @ [Orbitify](https://olanding-personal.vercel.app/)
 
-📍 _Nov 2025 - Present_  
+📍 _Mar 2025 - Present_  
 💼 **One Platform, AI-Powered, for Planning & Design**
 
 - **Description:** Orbitify provides the AI tools and cloud infrastructure to build, scale, and optimize a more sustainable future. A unified platform for planning, inspections, field teams, and assets, from pre-construction to operations, for Energy, Manufacturing, Construction, Data Centers, Smart Cities, and more.
 - **Role:** Co-Technical Lead, Founding Software Engineer  
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Three.js, Mapbox, Java, Spring Boot, PostgreSQL (pgvector), Redis, Python, FastAPI, TensorFlow, YOLOv8, AWS.
+- **Tech Stack (summary):** React, TypeScript, Vite, Tailwind CSS, Three.js, Mapbox, Java 17, Spring Boot 3, PostgreSQL (pgvector), Redis, Python, FastAPI, TensorFlow, YOLOv8, LangChain/LangGraph, AWS Bedrock, AWS (ECS Fargate, ECR, S3, SageMaker, Lambda@Edge).
 
 #### Details
 - **Full-Stack Integrated Platform:** Engineered a multi-tenant modular platform (React/Spring Boot) spanning O-EAM (asset & lifecycle), O-OPS (operations), O-DMS (document management), and O-EYE (AI-powered inspection), unifying planning, design, field workflows, and operations in one system.
@@ -103,10 +104,17 @@ When I'm not coding:
 - **Global Inventory System:** Developed Warehouse & Inventory modules leveraging PostgreSQL and Redis caching for granular tracking of global assets and spare parts.
 - **Marketing Presence:** Designed and developed the Orbitify landing pages, building a responsive, high-converting marketing site.
 
+#### 🔧 Tech Stack (by area)
+- **Backend:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Flyway, pgvector, Redis, AWS SDK (S3, Bedrock), OpenAPI/Swagger.
+- **Inference & CV:** Python, FastAPI, TensorFlow/Keras, Mask R-CNN, OpenCV, rasterio.
+- **AI Agent (OChatbot):** Python, FastAPI, LangGraph, LangChain, AWS Bedrock (Claude, Cohere embed/rerank), SQLAlchemy, PostgreSQL, Alembic.
+- **Object detection:** Python, FastAPI, Ultralytics (YOLOv8), SAHI, Shapely; model training on AWS SageMaker.
+- **Infra:** Docker, AWS (ECS Fargate, ECR, S3, SageMaker, Lambda@Edge), Node.js + Sharp for image resize.
+
 #### **Technologies Used:**  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,java,spring,postgresql,redis,python,aws" />
+      <img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,java,spring,postgresql,redis,python,aws,docker" />
     </a>
   </p>  
 
@@ -115,7 +123,7 @@ When I'm not coding:
 ### Full Stack Software Engineer @ Project Pluto
 
 #### [**GreenBook**](https://www.makegreenbook.com/)  
-📍 _Nov 2024 - Present_  
+📍 _Nov 2024 - Aug 2025_  
 💼 **A Project at Project Pluto**  
 - **Description:** A sustainability-focused platform transforming traditional print marketing into data-driven digital experiences. Includes visual and programmatic workflows for managing digital assets with full automation of project setup, deployment, and analytics.
 - **Role:** Lead Full-Stack Software Engineer  
@@ -246,8 +254,8 @@ When I'm not coding:
   </p>  
 
 
-#### [**CareerHub - Career Events Platform**](https://github.com/giatinhuynh/career-hub)  
-📍 _2025_  
+#### [**CareerHub - Career Events Platform**](https://github.com/giatinhuynh/career-hubb)  
+📍 _Aug 2025 - Nov 2025_  
 💼 **Full-Stack Team Project for RMIT's Software Engineering Process & Tools Course**
 
 - **Description:** An events-first platform where students discover career-oriented opportunities (career fairs, networking nights, workshops, panels, and hackathons), each with category-specific interactive features built for real professional outcomes.  
@@ -301,7 +309,7 @@ When I'm not coding:
 
 
 #### [**Student Check-In Web App**](https://github.com/RMIT-FinTech-Club/Check-in-System)  
-📍 _Mar 2024 - Jun 2024_  
+📍 _Jul 2023 - Feb 2024_  
 - **Description:** A web app automating event check-in processes by streamlining data entry with advanced backend automation.  
 - **Role:** Backend Developer  
 - **Key Contributions:**  
@@ -499,7 +507,7 @@ When I'm not coding:
 ### General Software Projects  
 
 #### [**Electoral Database Management System**](https://github.com/giatinhuynh/victoriavotingsystem)  
-📍 _Aug 2024 - Oct 2024_  
+📍 _Jul 2024 - Sep 2024_  
 - **Description:** A comprehensive database solution designed to manage and optimize federal electoral processes, including voter registration, ballot issuance, and result aggregation.  
 - **Role:** Database Developer  
 - **Key Contributions:**  
