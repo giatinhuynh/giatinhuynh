@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **final-year IT student at RMIT** (minor in AI & Data Science), **6× hackathon winner**, and **Full-Stack Software Engineer** building scalable solutions across AI, cloud, robotics, and product. I blend engineering with project leadership and I'm driven by solving real-world problems in fast-paced environments.
+I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech, and I'm driven by solving real-world problems in fast-paced environments.
 
 **Portfolio:** [shinya.live](https://www.shinya.live/) · **Fun fact:** I've got an **offline survival manual** on my phone, just in case. 🧭
 
@@ -40,21 +40,21 @@ When I'm not coding:
 **I'm always eager to learn and adapt to new technologies on the go!**
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,swift,bash,react,nextjs,tailwindcss,threejs,spring,nodejs,fastapi,graphql,firebase,prisma,postgres,mongodb,supabase,redis,aws,gcp,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,figma,unity,vite,flask&perline=14" title="Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash,html,css,react,nextjs,tailwindcss,threejs,webflow,spring,nodejs,express,fastapi,flask,graphql,firebase,prisma,postgres,mysql,mongodb,supabase,redis,aws,gcp,azure,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,selenium,notion,figma,arduino,unity,vite&perline=14" title="Skills" /></a>
 </p>
 
 | Category | Technologies |
 |----------|--------------|
-| **Programming Languages** | Python, TypeScript, Java, C++, C#, Swift, SQL, Bash, JavaScript |
-| **Web & Frontend** | React, Next.js, Vite, Tailwind CSS, Three.js, shadcn/ui, Webflow, Webstudio |
-| **Backend & CMS** | Spring Boot, Node.js, Express, FastAPI, Flask, GraphQL, Firebase, Payload CMS, Prisma |
-| **Databases** | PostgreSQL, Supabase, pgvector, MongoDB, Redis, SQLite, Firestore |
-| **Cloud & DevOps** | AWS, GCP, Vercel, Docker, Terraform, Ansible, GitHub Actions, Linux |
-| **Testing & Tools** | Playwright, Jest, React Testing Library, JUnit, Mockito, Git, Cursor, Claude Code |
-| **AI & ML** | LangGraph, Gemini, AWS Bedrock (Claude, Cohere), RAG (pgvector), YOLOv8, PyTorch, TensorFlow, OpenCV, SageMaker, LLMs |
-| **Robotics** | ROS 2, MoveIt2, Nav2, SLAM Toolbox, Computer Vision, Sensor Fusion |
-| **APIs & Integrations** | REST API, GraphQL, Clerk, Mapbox, GA4, PostHog, Make.com |
-| **Design & PM** | Figma, Jira, Notion, Miro |
+| **Programming Languages** | Java (17), Python, C++, C#, JavaScript, TypeScript, Swift, Bash, SQL |
+| **Web & Frontend** | HTML, CSS, React, Next.js, Vite, Tailwind CSS, Three.js, shadcn/ui, Webflow, Webstudio, Framer Motion |
+| **Backend & Integrations** | Spring Boot 3, Spring Security, JWT, Node.js, Express, FastAPI, Flask, GraphQL, Firebase, Payload CMS, Prisma, TypeORM, OpenAPI/Swagger, REST API, Clerk, Mapbox, Apollo, GA4, PostHog, Make.com, n8n, Sharp |
+| **Databases** | PostgreSQL, Supabase, pgvector, Firestore, MongoDB, Redis, SQLite, MySQL, SwiftData, Flyway, SQLAlchemy, Alembic |
+| **Cloud & DevOps** | AWS (S3, ECS Fargate, ECR, SageMaker, Lambda@Edge, Bedrock), GCP, Azure, Vercel, Docker, Terraform, Ansible, GitHub Actions, Linux, Git, GitHub |
+| **AI & Machine Learning** | LangChain, LangGraph, Gemini, AWS Bedrock (Claude, Cohere), RAG (pgvector), LLMs, PyTorch, TensorFlow/Keras, scikit-learn, Ultralytics (YOLOv8), Mask R-CNN, OpenCV, rasterio, SAHI, Shapely, SageMaker, Jupyter Notebook |
+| **Robotics & Computer Vision** | ROS 2, MoveIt2, Nav2, SLAM Toolbox, Gazebo, py_trees, Computer Vision, Sensor Fusion |
+| **Testing** | Playwright, Jest, React Testing Library, JUnit, Mockito, Selenium |
+| **Agentic Coding & Tools** | Cursor, Claude Code, Lovable, Google Antigravity, Microsoft Copilot |
+| **Design & Project Management** | Figma, Canva, Jira, Trello, Miro, Notion, Microsoft 365 |
 | **Embedded & Game Dev** | Arduino, Unity |
 
 ---
