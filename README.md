@@ -9,9 +9,9 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech, and I'm driven by solving real-world problems in fast-paced environments.
+I'm a **final-year IT student at RMIT** (minor in AI & Data Science), **6× hackathon winner**, and **Full-Stack Software Engineer** building scalable solutions across AI, cloud, robotics, and product. I blend engineering with project leadership and I'm driven by solving real-world problems in fast-paced environments.
 
-**Fun fact:** I've got an **offline survival manual** on my phone, just in case. 🧭
+**Portfolio:** [shinya.live](https://www.shinya.live/) · **Fun fact:** I've got an **offline survival manual** on my phone, just in case. 🧭
 
 When I'm not coding:
 - **Watching & discussing** anime, manga, and cartoons (and writing reviews). _Top 3: Cowboy Bebop, Steins;Gate, Vagabond._
@@ -19,6 +19,9 @@ When I'm not coding:
 - **Dancing** and playing **video games** (competitive and story-driven). 
 
 <p align="center">
+  <a href="https://www.shinya.live/">
+    <img src="https://img.shields.io/badge/Portfolio-shinya.live-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/huynhducgiatin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,24 +40,22 @@ When I'm not coding:
 **I'm always eager to learn and adapt to new technologies on the go!**
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,ts,swift,bash,html,css,react,nextjs,tailwindcss,webflow,spring,nodejs,express,firebase,prisma,postgres,mysql,mongodb,supabase,aws,gcp,azure,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,notion,figma,arduino,unity,vite,flask,redis,graphql&perline=14" title="Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,cs,ts,swift,bash,react,nextjs,tailwindcss,threejs,spring,nodejs,fastapi,graphql,firebase,prisma,postgres,mongodb,supabase,redis,aws,gcp,vercel,git,github,docker,terraform,ansible,githubactions,linux,jest,figma,unity,vite,flask&perline=14" title="Skills" /></a>
 </p>
 
 | Category | Technologies |
 |----------|--------------|
-| **Programming Languages** | Java (17), Python, C++, C#, JavaScript, TypeScript, Swift, Bash, SQL |
-| **Web Development** | HTML, CSS, React.js, Next.js, Vite, Tailwind CSS, Webflow, Webstudio, Three.js, Framer Motion, shadcn/ui |
-| **Backend & CMS** | Spring Boot 3, Spring Security, JWT, Node.js, Express, Flask, FastAPI, Firebase, Payload CMS, Prisma ORM, TypeORM, OpenAPI/Swagger |
-| **Databases** | PostgreSQL, pgvector, MySQL, MongoDB, SQLite, Supabase, SwiftData, Redis, Flyway, SQLAlchemy, Alembic |
-| **Cloud & Hosting** | AWS (S3, ECS Fargate, ECR, SageMaker, Lambda@Edge, Bedrock), GCP, Azure, Vercel |
-| **DevOps & Automation** | Git, GitHub, Docker, Terraform, Ansible, GitHub Actions, Unix/Linux, n8n, Make.com |
-| **Testing** | Playwright, Jest, React Testing Library, JUnit, Mockito, Selenium |
-| **Project Management** | Microsoft 365, Jira, Trello, Miro, Notion |
-| **Design & Prototyping** | Figma, Canva |
-| **ML/CV & AI** | TensorFlow/Keras, Ultralytics (YOLOv8), Mask R-CNN, OpenCV, rasterio, SAHI, Shapely; LangChain, LangGraph, AWS Bedrock (Claude, Cohere), Gemini; pgvector (RAG), SageMaker (training); Jupyter Notebook, LLMs |
-| **Agentic Coding & Prototyping** | Lovable, Cursor, Google Antigravity, Microsoft Copilot |
+| **Programming Languages** | Python, TypeScript, Java, C++, C#, Swift, SQL, Bash, JavaScript |
+| **Web & Frontend** | React, Next.js, Vite, Tailwind CSS, Three.js, shadcn/ui, Webflow, Webstudio |
+| **Backend & CMS** | Spring Boot, Node.js, Express, FastAPI, Flask, GraphQL, Firebase, Payload CMS, Prisma |
+| **Databases** | PostgreSQL, Supabase, pgvector, MongoDB, Redis, SQLite, Firestore |
+| **Cloud & DevOps** | AWS, GCP, Vercel, Docker, Terraform, Ansible, GitHub Actions, Linux |
+| **Testing & Tools** | Playwright, Jest, React Testing Library, JUnit, Mockito, Git, Cursor, Claude Code |
+| **AI & ML** | LangGraph, Gemini, AWS Bedrock (Claude, Cohere), RAG (pgvector), YOLOv8, PyTorch, TensorFlow, OpenCV, SageMaker, LLMs |
+| **Robotics** | ROS 2, MoveIt2, Nav2, SLAM Toolbox, Computer Vision, Sensor Fusion |
+| **APIs & Integrations** | REST API, GraphQL, Clerk, Mapbox, GA4, PostHog, Make.com |
+| **Design & PM** | Figma, Jira, Notion, Miro |
 | **Embedded & Game Dev** | Arduino, Unity |
-| **APIs & Integrations** | REST API, GraphQL, Apollo, Clerk, Mapbox, GA4, PostHog; Node.js, Sharp (image processing) |
 
 ---
 
@@ -75,8 +76,8 @@ When I'm not coding:
 
 - **Bachelor of Information Technology**  
   - _RMIT University_  
-  - _Minor: Artificial Intelligence and Machine Learning_  
-  - _Expected Graduation: 2026_  
+  - _Minor: AI & Data Science_  
+  - _Expected Graduation: December 2026_  
 
 ---
 
@@ -117,6 +118,31 @@ When I'm not coding:
       <img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,java,spring,postgresql,redis,python,aws,docker" />
     </a>
   </p>  
+
+---
+
+### Software Engineer @ [RAIsE Hub | RMIT University](https://www.shinya.live/work/internbot)
+
+📍 _Feb 2026 - Jun 2026 · Hybrid, Melbourne_  
+💼 **Full-Stack AI Production Systems & Engineering Boilerplate**
+
+- **Description:** Led end-to-end delivery of enterprise internship platforms and codified deployment architectures into reusable engineering tools for future RAIsE Hub client projects.
+- **Role:** Software Engineer · Tech Lead (Internbot)  
+- **Tech Stack:** Next.js 16, React 19, TypeScript, Cloud Functions v2, Firestore, Firebase Auth, Gemini 2.0 Flash, Supabase pgvector, Terraform, GitHub Actions, Docker
+
+#### Details
+- **Internbot:** Led a 5-person team to architect an internship platform serving **2,000+ students**; 100% sprint completion across 5 agile sprints (176 story points).
+- **interbotRAG:** Standalone AI microservice on Cloud Functions v2 using **Gemini 2.0 Flash** and **Supabase pgvector** for semantic RAG with direct citations; Contract & Job compliance checkers and AI Email Manager.
+- **Architecture:** CQRS + 4-layer Clean Architecture with Firestore Unit of Work transactions; **87% test coverage** with an **80% CI/CD gate** (35+ automated tests).
+- **Garage Boilerplate:** Production-ready Next.js 16 + Firebase monorepo with Claude Code AI harness, custom MCP servers, Terraform, and Docker emulator stack for local-to-production parity.
+- **DevOps:** Zero-downtime GCP deployments via Terraform and GitHub Actions with **OIDC Workload Identity Federation** (no long-lived service account keys).
+
+#### **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,firebase,gcp,terraform,githubactions,docker" />
+    </a>
+  </p>
 
 ---
 
@@ -195,7 +221,53 @@ When I'm not coding:
 
 ## 💻 Projects  
 
+### 🤖 Robotics & AI
+
+#### [**Autonomous Xiangqi-Playing UR5e Cobot**](https://github.com/giatinhuynh/par_ur5e_xiangqi)  
+📍 _Apr 2026 - Jun 2026_  
+♟️ **Physical Chinese Chess on a Universal Robots UR5e**
+
+- **Description:** Autonomous Xiangqi system playing full physical games against humans — three-tier ROS 2 stack, dual-model computer vision, and behavior tree-driven manipulation with RG2 gripper and Intel RealSense.
+- **Role:** Robotics Software Engineer & AI Developer  
+- **Impact:** Full hardware game loop — vision → AI move → pick-and-place → board verify; Fairy-Stockfish + custom Minimax engines; Flask/Socket.IO live dashboard.
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,docker,git,github" />
+    </a>
+  </p>
+
+#### [**Autonomous Search & Navigation ROSBot**](https://github.com/giatinhuynh/par_group11_tin)  
+📍 _Feb 2026 - Mar 2026_  
+🗺️ **RMIT Search & Navigation Challenge**
+
+- **Description:** Autonomous exploration and hazard mapping on ROS 2 Humble — maps unknown environments, localizes visual hazards in 3D, and retraces its path home.
+- **Role:** Robotics Software Engineer  
+- **Impact:** Custom 3-node stack (FSM, Hazard Detection, Position Tracking) on Nav2 + SLAM Toolbox + explore_lite; RGB-D spin-pause depth sampling via OAK-D camera.
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,linux,git,github" />
+    </a>
+  </p>
+
+---
+
 ### Full-Stack Applications  
+
+#### [**Internbot & interbotRAG**](https://www.shinya.live/work/internbot)  
+📍 _Feb 2026 - Jun 2026_  
+🎓 **Enterprise Internship Management & AI Platform · RAIsE Hub**
+
+- **Description:** Full-stack internship platform serving **2,000+ RMIT students**, built for multi-university scalability. Standalone **interbotRAG** microservice automates policy FAQs and document compliance.
+- **Role:** Tech Lead, AI Software Engineer & Scrum Master  
+- **Impact:** 87% backend test coverage, 80% CI/CD gate, Gemini 2.0 Flash + pgvector RAG, Terraform zero-downtime GCP deployments.
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,firebase,gcp,terraform,githubactions" />
+    </a>
+  </p>
 
 #### [**OurList**](https://anime-duo-delight.vercel.app/)  
 📍 _Nov 2025 - Present_  
@@ -326,6 +398,21 @@ When I'm not coding:
 ---
 
 ### 🤖 AI & Machine Learning
+
+#### [**Colon Histopathology AI Classifier**](https://github.com/giatinhuynh/colon-histopathology-classifier)  
+📍 _Apr 2026 - Jun 2026_  
+🔬 **Cancer Detection & Cell-Type Classification · CRCHistoPhenotypes**
+
+- **Description:** End-to-end ML research pipeline for colon cell cancer detection and 4-class cell-type classification on 27×27 histopathology patches, with rigorous **patient-level** evaluation on unseen clinical data.
+- **Role:** Machine Learning Engineer & Data Scientist  
+- **Impact:** **0.91 Macro F1** (cancer detection) and **0.75 Macro F1** (cell-type) on held-out patients; 12 models (SVM, RF, custom CNNs); documented negative transfer from CIFAR-10 pretraining.  
+- **Links:** [GitHub](https://github.com/giatinhuynh/colon-histopathology-classifier) · [Kaggle Notebook](https://www.kaggle.com/code/hunhcgiatn/colon-histopathology-classifier)  
+- **Technologies Used:**  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,git,github" />
+    </a>
+  </p>
 
 #### [**Adversarial LLM Security: Blue & Red Team**](https://github.com/giatinhuynh/RMIT-CyberHack2025)  
 📍 _Feb 2025_  
@@ -563,6 +650,9 @@ When I'm not coding:
 I firmly believe in fostering **growth**, maintaining **clear communication**, and cultivating **teamwork** to achieve outstanding results. Let’s connect and collaborate to build innovative solutions, share knowledge, and grow together!  
 
 <p align="center">
+  <a href="https://www.shinya.live/">
+    <img src="https://img.shields.io/badge/Portfolio-shinya.live-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/huynhducgiatin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
