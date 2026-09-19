@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:1a1a1a&height=220&section=header&text=Peter%2FShinya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Project%20Manager&descSize=20&descAlignY=78&descColor=c9c9c9&animation=scaleIn" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,100:1a1a1a&height=220&section=header&text=Peter%2FShinya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Product%20%C2%B7%20Cloud%20Engineering&descSize=20&descAlignY=78&descColor=c9c9c9&animation=scaleIn" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud Computing Enthusiast**, and **Project Manager**. I build scalable solutions that blend creativity, collaboration, and modern tech, and I'm driven by solving real-world problems in fast-paced environments.
+I'm passionate about and focusing on **AI**, **product**, and **cloud engineering**. I build scalable solutions that blend creativity, collaboration, and modern tech, and I'm driven by solving real-world problems in fast-paced environments.
 
 **Portfolio:** [shinya.live](https://www.shinya.live/) · **Fun fact:** I've got an **offline survival manual** on my phone, just in case. 🧭
 

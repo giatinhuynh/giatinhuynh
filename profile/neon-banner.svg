@@ -9,7 +9,7 @@
   <line x1="0" y1="65" x2="900" y2="65" stroke="#1e1530" stroke-width="0.5" opacity="0.6"/>
   <line x1="0" y1="195" x2="900" y2="195" stroke="#1e1530" stroke-width="0.5" opacity="0.6"/>
   <text x="450" y="118" font-family="Arial Black, sans-serif" font-size="56" font-weight="bold" fill="#ff2a6d" text-anchor="middle">Peter/Shinya</text>
-  <text x="450" y="172" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#05d9e8" text-anchor="middle">AI · Full-Stack · Cloud · Project Manager</text>
+  <text x="450" y="172" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#05d9e8" text-anchor="middle">AI Â· Product Â· Cloud Engineering</text>
   <line x1="180" y1="138" x2="280" y2="138" stroke="#ff2a6d" stroke-width="2" opacity="0.7"/>
   <line x1="620" y1="138" x2="720" y2="138" stroke="#ff2a6d" stroke-width="2" opacity="0.7"/>
 </svg>
