@@ -146,13 +146,13 @@ When I'm not coding:
 
 ---
 
-### Full Stack Software Engineer @ Project Pluto
+### Software Engineer @ Project Pluto
 
 #### [**GreenBook**](https://www.makegreenbook.com/)  
 📍 _Nov 2024 - Aug 2025_  
 💼 **A Project at Project Pluto**  
 - **Description:** A sustainability-focused platform transforming traditional print marketing into data-driven digital experiences. Includes visual and programmatic workflows for managing digital assets with full automation of project setup, deployment, and analytics.
-- **Role:** Lead Full-Stack Software Engineer  
+- **Role:** Lead Software Engineer  
 - **Impact:** Reduced manual workload by 40%, integrated GA4/PostHog for analytics, supported API integrations for CMS, CRM, and asset management.
 - **Technologies Used:**  
   <p align="center">
