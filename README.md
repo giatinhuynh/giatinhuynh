@@ -35,6 +35,13 @@ When I'm not coding:
 
 ---
 
+## Awards and Fellowships
+
+- **1st Place (Individual), SentinelOne ThreatOps Challenge** - September 2026
+- **Student Fellow W26, Startmate**
+
+---
+
 ## 🛠️ Skills  
 
 **I'm always eager to learn and adapt to new technologies on the go!**
@@ -134,6 +141,7 @@ When I'm not coding:
 - **Internbot:** Led a 5-person team to architect an internship platform serving **2,000+ students**; 100% sprint completion across 5 agile sprints (176 story points).
 - **interbotRAG:** Standalone AI microservice on Cloud Functions v2 using **Gemini 2.0 Flash** and **Supabase pgvector** for semantic RAG with direct citations; Contract & Job compliance checkers and AI Email Manager.
 - **Architecture:** CQRS + 4-layer Clean Architecture with Firestore Unit of Work transactions; **87% test coverage** with an **80% CI/CD gate** (35+ automated tests).
+- **Capstone Boilerplate:** Built a reusable full-stack boilerplate adopted across RMIT's capstone course, supporting **400+ students each semester**.
 - **Garage Boilerplate:** Production-ready Next.js 16 + Firebase monorepo with Claude Code AI harness, custom MCP servers, Terraform, and Docker emulator stack for local-to-production parity.
 - **DevOps:** Zero-downtime GCP deployments via Terraform and GitHub Actions with **OIDC Workload Identity Federation** (no long-lived service account keys).
 
