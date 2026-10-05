@@ -84,7 +84,7 @@ When I'm not coding:
 - **Bachelor of Information Technology**  
   - _RMIT University_  
   - _Minor: AI & Data Science_  
-  - _Expected Graduation: December 2026_  
+  - _Expected Graduation: 2027_
 
 ---
 
