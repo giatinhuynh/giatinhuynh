@@ -425,7 +425,7 @@ When I'm not coding:
 #### [**Adversarial LLM Security: Blue & Red Team**](https://github.com/giatinhuynh/RMIT-CyberHack2025)  
 📍 _Feb 2025_  
 🏆 **RMIT GenAI & Cyber Security Hackathon 2025, Melbourne Campus Winner**  
-- **Description:** Blue Team (Challenge 2): jailbreak prompt detection on a 5,000-sample dataset. Red Team (Challenge 4): stress-testing Microsoft Azure OpenAI safety filters with ultra-advanced adversarial prompts. Part of the winning Melbourne campus team (600+ participants, 70+ teams).  
+- **Description:** Blue Team (Challenge 2): jailbreak prompt detection on a 5,000-sample dataset. Red Team (Challenge 4): stress-testing Microsoft Azure OpenAI safety filters with ultra-advanced adversarial prompts. Part of the winning Melbourne campus team at RMIT CyberHack 2025.
 - **Role:** Blue Team lead (ensemble ML), Red Team (adversarial prompt design & API testing)  
 - **Impact:** Blue Team: hybrid TF-IDF + BERT ensemble (DistilBERT, RoBERTa, DeBERTa) with early stopping and dynamic ensemble weighting; high validation AUCs. Red Team: 2 of 5 ultra-advanced prompts bypassed Azure OpenAI filters, revealing key LLM safety vulnerabilities.  
 - **Technologies Used:**  
